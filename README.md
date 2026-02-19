@@ -7,6 +7,9 @@ Final thesis project - Faculty of Organization and Informatics, University of Za
 
 ## Project Overview
 
+![Game Overview](https://github.com/user-attachments/assets/a4192cc6-5a98-405f-9a59-33e201b17ed3)
+
+
 This project demonstrates the complete development cycle of a 3D endless runner game built in Unity.
 
 The objective was to design and implement a fully functional prototype that integrates:
