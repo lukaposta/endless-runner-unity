@@ -63,6 +63,10 @@ Each session challenges the player to survive longer and achieve a higher score.
 * Randomized lane-based object placement
 
 
+<p>
+  <img alt="Chunk spawning" src="https://github.com/user-attachments/assets/6f97031a-d2d6-444f-8967-3158acd926ab" width="600">
+</p>
+
 
 ### Obstacle System
 
@@ -92,11 +96,23 @@ Each session challenges the player to survive longer and achieve a higher score.
 * Gravity dynamically adjusted
 * Camera FOV reacts to speed changes
 
+
+<p>
+  <img alt="Speed" src="https://github.com/user-attachments/assets/2c8a518f-9c2c-41eb-8773-0e4f78818ad3" width="800">
+</p>
+
+
 ### Camera System
 
 * Cinemachine integration
 * Dynamic Field of View adjustments
 * Smooth visual feedback during speed transitions
+
+
+<p>
+  <img alt="Cinemachine" src="https://github.com/user-attachments/assets/938ac697-9ecc-4b23-80ec-d26e4f3a98a0" width="600">
+</p>
+
 
 ---
 
