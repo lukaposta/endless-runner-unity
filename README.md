@@ -62,6 +62,8 @@ Each session challenges the player to survive longer and achieve a higher score.
 * Optimized scene management
 * Randomized lane-based object placement
 
+
+
 ### Obstacle System
 
 * Coroutine-based spawning
@@ -110,6 +112,10 @@ Pickup (abstract base class)
 ├── Apple
 └── Checkpoint
 ```
+
+<p>
+  <img alt="Pickups" src="https://github.com/user-attachments/assets/0a941cb6-e09a-4f55-bf4a-c1effbe073a5" width="800">
+</p>
 
 Responsibilities are clearly separated:
 
