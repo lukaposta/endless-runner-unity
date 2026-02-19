@@ -158,6 +158,12 @@ Scenes
 * MainMenu
 * GameScene
 
+
+<p>
+  <img alt="Scenes" src="https://github.com/user-attachments/assets/3bf37036-a924-4f1d-89e6-07b6b0a57d48" width="800">
+</p>
+
+
 ---
 
 ## Key Learning Outcomes
